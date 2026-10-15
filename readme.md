@@ -3,7 +3,7 @@
 Aplikasi web untuk membuat dan mengelola kumpulan tautan (Link Tree) menggunakan **Svelte 5**, **Vite**, dan **JavaScript**. Data diambil dari [Delcom Open API](https://open-api.delcom.org/docs/1.0/api-link-trees).
 
 Proyek: `ifs24008-pabwe2026-sk-p6-svelte`
-Repositori: https://github.com/givaviolen/ifs24054-pabwe2026-sk-p6-svelte
+Repositori: https://github.com/deaaakk/ifs24008-pabwe2026-sk-p6-svelte-main
 
 ## Fitur
 
@@ -38,8 +38,8 @@ Repositori: https://github.com/givaviolen/ifs24054-pabwe2026-sk-p6-svelte
 ## Instalasi
 
 ```bash
-git clone https://github.com/givaviolen/ifs24054-pabwe2026-sk-p6-svelte.git
-cd ifs24054-pabwe2026-sk-p6-svelte
+git clone https://github.com/deaaakk/ifs24008-pabwe2026-sk-p6-svelte-main
+cd ifs24008-pabwe2026-sk-p6-svelte
 bun install
 ```
 
