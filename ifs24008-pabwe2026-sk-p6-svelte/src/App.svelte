@@ -40,3 +40,4 @@
     {/if}
   </LinkTreeLayout>
 {/if}
+<p style="color:red">App hidup</p>
