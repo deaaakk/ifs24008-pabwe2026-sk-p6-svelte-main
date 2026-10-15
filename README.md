@@ -1,1 +1,0 @@
-# ifs24008-pabwe2026-sk-p6-svelte-main
